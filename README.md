@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/LuisAguadoVicaria/LuisAguadoVicaria/raw/main/proyect-images/random-poker-card.png" alt="front-image" align="center">
+  <img height="444px" src="https://github.com/LuisAguadoVicaria/LuisAguadoVicaria/raw/main/proyect-images/random-poker-card.png" alt="front-image" align="center">
 </p>
 
 <div align="center">
